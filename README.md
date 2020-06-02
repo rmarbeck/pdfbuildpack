@@ -1,3 +1,3 @@
-# heroku-buildpack-converter-fonts
+# pdfbuildpack
 
 Heroku buildpack for installing various fonts on an heroku instance.
